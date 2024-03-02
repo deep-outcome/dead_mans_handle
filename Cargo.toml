@@ -1,5 +1,5 @@
 [package]
-name = "dead_man_handle"
+name = "dead_mans_handle"
 authors = [ "software9119.technology" ]
 version = "1.0.0"
 edition = "2021"
