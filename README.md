@@ -9,6 +9,6 @@ Dead manʼs handle realization based on blocking incoming light via operatorʼs 
 - micro:bit v. 2.21 ([specification](https://tech.microbit.org/hardware/))
 
 ### Presentation
-Check with [recording](https://github.com/bravequickcleverfibreyarn/dead_man_handle/blob/main/pre/pre.mp4) for demonstration.
+Check with [recording](https://github.com/deep-outcome/dead_man_handle/blob/main/pre/pre.mp4) for demonstration.
 
-![PRE](https://github.com/bravequickcleverfibreyarn/dead_man_handle/blob/main/pre/pre.jpg)
+![PRE](https://github.com/deep-outcome/dead_man_handle/blob/main/pre/pre.jpg)
